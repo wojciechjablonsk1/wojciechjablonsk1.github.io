@@ -1,109 +1,29 @@
 ---
 layout: single
 title: "Wojciech Jabłoński"
-author_profile: false
+author_profile: true
 ---
 
 # Wojciech Jabłoński
-
 ## Automation & Robotics Engineer
 
-I am an Automation and Robotics Engineer interested in **robotics, embedded systems, industrial automation, and mechatronic design**.
+I design and build robotic systems — combining mechanical design, embedded 
+programming, electronics, and automation.
 
-My work focuses on designing and developing robotic systems by combining:
-
-- mechanical design,
-- embedded programming,
-- electronics,
-- automation,
-- additive manufacturing.
+[View my full Portfolio →](/portfolio/){: .btn .btn--primary}
+[GitHub →](https://github.com/wojciechjablonsk1){: .btn .btn--inverse}
 
 ---
 
-## Featured Projects
+## Featured Project
 
 ### 🤖 6-DOF Robotic Arm
-
-A complete mechatronic robotic arm developed as my engineering thesis project.
-
-The project includes:
-
-- mechanical design in SolidWorks,
-- CAD optimization for 3D printing,
-- ESP32-based control system,
-- C++ and Python software,
-- electronic integration,
-- prototype testing.
+My engineering thesis project — a complete mechatronic robotic arm with 
+custom SolidWorks design, ESP32 control, and C++/Python software.
 
 [View Project →](/projects/robotic-arm-6dof/)
 
 ---
 
-### ⚙️ Engineering Portfolio
-
-A collection of my engineering projects, technical documentation, CAD models, and development work.
-
-[Open Portfolio →](/portfolio/)
-
----
-
-## Technical Skills
-
-### Programming
-- C / C++
-- Python
-- Embedded C
-- ST, LD, FBD
-
-### Embedded Systems
-- ESP32
-- Arduino
-- Raspberry Pi
-- ESP-IDF
-
-### CAD & Engineering Tools
-- SolidWorks
-- Siemens NX
-- AutoCAD
-- Inventor
-- MasterCAM
-
-### Simulation & Automation
-- MATLAB / Simulink
-- TwinCAT
-- Fanuc RoboGuide
-- Webots
-
-### Tools
-- Linux
-- Git
-- GitHub
-
----
-
-## Education
-
-**Warsaw University of Technology**
-
-B.Sc. Automation and Robotisation of Manufacturing Processes
-
-2022 - 2026
-
-Main areas:
-- Robotics
-- Industrial automation
-- Embedded systems
-- Manufacturing technologies
-- Mechatronics
-
----
-
 ## Contact
-
-📍 Warsaw, Poland
-
-✉️ woj.jablo@gmail.com
-
-🔗 LinkedIn: [Profile](YOUR_LINKEDIN)
-
-🔗 GitHub: [github.com/wojciechjablonsk1](https://github.com/wojciechjablonsk1)
+📍 Warsaw, Poland · ✉️ woj.jablo@gmail.com · 🔗 [LinkedIn](YOUR_LINKEDIN) · 🔗 [GitHub](https://github.com/wojciechjablonsk1)
