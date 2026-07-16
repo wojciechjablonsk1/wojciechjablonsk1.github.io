@@ -1,9 +1,3 @@
----
-layout: single
-title: "Wojciech Jabłoński"
-author_profile: true
----
-
 # Wojciech Jabłoński
 ## Automation & Robotics Engineer
 
