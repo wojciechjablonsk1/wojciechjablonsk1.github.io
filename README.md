@@ -1,11 +1,3 @@
----
-layout: single
-title: "Wojciech Jabłoński"
-author_profile: false
----
-
-# Wojciech Jabłoński
-
 ## Automation & Robotics Engineer
 
 I am an Automation and Robotics Engineer interested in **robotics, embedded systems, industrial automation, and mechatronic design**.
