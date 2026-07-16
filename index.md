@@ -19,7 +19,7 @@ programming, electronics, and automation.
 
 ### 🤖 6-DOF Robotic Arm
 My engineering thesis project — a complete mechatronic robotic arm with 
-custom SolidWorks design, ESP32 control, and C++/Python software.
+custom SolidWorks parts designed for 3d printing, ESP32 and PCA9685 control, and C++/Python software with custom C++ libraries in a ROS like architecture.
 
 [View Project →](/projects/robotic-arm-6dof/)
 
