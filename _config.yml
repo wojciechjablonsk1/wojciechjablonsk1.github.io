@@ -1,0 +1,24 @@
+title: Wojciech Jabłoński
+description: Automation & Robotics Engineer | Mechatronics | Embedded Systems | Robotics
+
+author:
+  name: Wojciech Jabłoński
+  location: Warsaw, Poland
+
+# Website settings
+show_downloads: false
+
+# Theme
+theme: jekyll-theme-minimal
+
+# Social links
+github_username: wojciechjablonsk1
+
+# Build settings
+markdown: kramdown
+
+# Exclude unnecessary files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
