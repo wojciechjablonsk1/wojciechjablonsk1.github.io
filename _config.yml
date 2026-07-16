@@ -9,7 +9,7 @@ author:
 show_downloads: false
 
 # Theme
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 
 # Social links
 github_username: wojciechjablonsk1
