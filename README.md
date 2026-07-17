@@ -1,5 +1,4 @@
----
-## Automation & Robotics Engineer
+# Automation & Robotics Engineer
 I am an Automation and Robotics Engineer interested in **robotics, embedded systems, industrial automation, and mechatronic design**.
 
 My work focuses on designing and developing robotic systems by combining:
