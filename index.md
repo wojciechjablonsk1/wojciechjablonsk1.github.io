@@ -4,8 +4,8 @@
 I design and build robotic systems — combining mechanical design, embedded 
 programming, electronics, and automation.
 
-[View my full Portfolio →](/portfolio/){: .btn .btn--primary}
-[GitHub →](https://github.com/wojciechjablonsk1){: .btn .btn--inverse}
+[View my full Portfolio](/portfolio/){: .btn .btn--primary}
+[GitHub](https://github.com/wojciechjablonsk1){: .btn .btn--inverse}
 
 ---
 
