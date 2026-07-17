@@ -6,7 +6,7 @@ author:
 description: >
   Embedded Systems + Robotics + Mechanical Design Engineer
 
-theme: minima
+remote_theme: jekyll/minima@d4d779a
 
 plugins:
   - jekyll-feed
