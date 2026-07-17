@@ -1,5 +1,3 @@
-## Automation & Robotics Engineer
-
 I design and build robotic systems — combining mechanical design, embedded 
 programming, electronics, and automation.
 
