@@ -1,3 +1,8 @@
+---
+layout: home
+title: Home
+---
+
 # Automation & Robotics Engineer
 I am an Automation and Robotics Engineer interested in **robotics, embedded systems, industrial automation, and mechatronic design**.
 
