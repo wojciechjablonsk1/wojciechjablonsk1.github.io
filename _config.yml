@@ -33,11 +33,11 @@ minima:
   #     * title    Tooltip rendered on hovering over icon.
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
-social_links:
-  - title: GitHub
-    icon: github
-    url: https://github.com/wojciechjablonsk1
+  social_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/wojciechjablonsk1
 
-  - title: LinkedIn
-    icon: linkedin
-    url: https://www.linkedin.com/in/YOUR-LINKEDIN
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/YOUR-LINKEDIN
